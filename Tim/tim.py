@@ -17,3 +17,4 @@ for m in range (1,n*2+2,1):
     for c in range (n*4+1,2*m-1,-1):
         print('*',end=' ')
     print()
+    
